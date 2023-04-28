@@ -48,7 +48,17 @@ Esse projeto foi desenvolvido com o propósito de aperfeiçoar mais minhas habil
 
 ## :white_check_mark: Requirements
 
-Antes de dar start :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Dart](https://dart.dev/get-dart) instalados em seu computador.
+Antes de dar start :checkered_flag:, você precisa ter o [Visual Studio Code](https://code.visualstudio.com/Download), [Git](https://git-scm.com) e o [Dart](https://dart.dev/get-dart) instalados em seu computador.
+
+Siga as intruções abaixo após você instalar o `VS Code`, o `Git` e o `Dart` em seu computador.
+
+1. Abra um terminal.
+2. Clone o repositório com o comando `git clone git@github.com:Anderson-Andre-P/testes_dart.git`.
+3. Abra a pasta criada com o comando `cd ./testes_dart`.
+4. Execute o comando `dart pub get` no terminal para instalar as dev dependencies.
+5. Execute os testes com o comando `dart run test`.
+
+Observação: você pode executar os testes de forma individual pelos arquivos de teste diretamente pelo VS COde.
 
 ## :memo: License
 
